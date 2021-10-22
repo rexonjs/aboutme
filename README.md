@@ -4,8 +4,8 @@
 
 ## Sosyal medya!
 <p>
-<a href="https://github.com/Karmajs" target="_blank"><img src="https://shields.io/badge/Kârma-111111.svg?&style=for-the-badge&logo=github"></a>
-<a href="https://www.instagram.com/youtuberex0n/" target="_blank"><img src="	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://github.com/youtuberexon" target="_blank"><img src="https://img.shields.io/badge/Rexon-%C4%B0nstagram-black"></a>
+<a href="https://www.instagram.com/youtuberex0n/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href=https://discord.gg/vXdmaUQpJf"" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
 </p>
   

@@ -20,8 +20,8 @@
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=youtuberexon&label=Ziyaretçi%20Sayısı&color=552b75" alt="Karmajs" />  
+<img src="https://komarev.com/ghpvc/?username=youtuberexon&label=Ziyaretçi%20Sayısı&color=552b75" alt="youtuberexon" />  
    
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/853009887318769704)](https://discord.com/users/853009887318769704)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/843434339584835584)](https://discord.com/users/843434339584835584)
 
 </p>

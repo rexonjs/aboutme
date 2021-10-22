@@ -22,7 +22,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=youtuberexon&label=Ziyaretçi%20Sayısı&color=552b75" alt="Karmajs" />  
    
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/843434339584835584
-                            )](https://discord.com/users/843434339584835584)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:843434339584835584)](https://discord.com/users/:843434339584835584)
 
 </p>

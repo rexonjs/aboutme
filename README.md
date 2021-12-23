@@ -1,15 +1,15 @@
-## Herkese Selamlar Ben Rexon
+## Hi, my name is Rexon
 
 
 
-## Sosyal medya!
+## Social media!
 <p>
 <a href="https://github.com/youtuberexon" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.instagram.com/youtuberex0n/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://discord.gg/visa" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
   
-  ## İyi Olduğum ve Bildiğim Diller
+  ## Subjects I'm Good At And Know
 <p>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 <img src="https://img.shields.io/badge/git%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 

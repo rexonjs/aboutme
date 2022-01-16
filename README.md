@@ -22,6 +22,6 @@
    
 </p>
 <hr>
-</h2> <img src="https://lanyard-profile-readme.vercel.app/api/852608195338960916?theme=dark&animated=true&hideDiscrim=false&borderRadius=20px"
+</h2> <img src="https://lanyard-profile-readme.vercel.app/api/919557197275484172?theme=dark&animated=true&hideDiscrim=false&borderRadius=20px"
 </p>
 <hr>

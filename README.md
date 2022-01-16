@@ -21,7 +21,5 @@
 <img src="https://komarev.com/ghpvc/?username=youtuberexon&label=Ziyaretçi%20Sayısı&color=552b75" alt="youtuberexon" />  
    
 </p>
-<hr>
-</h2> <img src="https://lanyard-profile-readme.vercel.app/api/919557197275484172?theme=dark&animated=true&hideDiscrim=false&borderRadius=20px"
-</p>
-<hr>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/919557197275484172)](https://discord.com/users/919557197275484172)
